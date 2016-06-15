@@ -14,4 +14,4 @@
 
 所有文章将同时发布到我的微信订阅号：无罔（noconfuse）
 
-![无罔](https://raw.githubusercontent.com/angryz/my-blog/master/noconfuse.jpg)
+![无罔](https://raw.githubusercontent.com/angryz/my-blog/master/noconfuse_430.jpg)
