@@ -6,6 +6,7 @@
 
 ## 最新文章目录
 
+* [微服务笔记（二）：边界](../../issues/5) 2016-07-04
 * [Redisson 分布式锁实现分析（一）](../../issues/4) 2016-06-27
 * [微服务笔记（一）：介绍](../../issues/3) 2016-06-20
 * [初创团队什么最重要](../../issues/2) 2016-06-12
@@ -16,4 +17,4 @@
 
 所有文章将同时发布到我的微信订阅号：无罔（noconfuse）
 
-![无罔](https://raw.githubusercontent.com/angryz/my-blog/master/noconfuse_430.jpg)
+![无罔](https://raw.githubusercontent.com/angryz/my-blog/master/noconfuse_200.jpg)
